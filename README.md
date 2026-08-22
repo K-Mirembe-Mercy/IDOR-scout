@@ -84,4 +84,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by [Madrine](https://github.com/) while working toward the HTB CPTS certification. Part of a series on practical, beginner-accessible offensive security.
+Built by [Mercy](https://github.com/) while working toward the HTB CPTS certification. Part of a series on practical, beginner-accessible offensive security.
