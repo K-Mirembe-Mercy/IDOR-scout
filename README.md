@@ -1,4 +1,4 @@
-# idor-scout
+# idor scout
 
 A small, beginner-friendly CLI tool that helps you test for **Insecure Direct Object Reference (IDOR)** issues — the class of bug where an app lets you view or modify someone else's data just by changing an ID in a request.
 
